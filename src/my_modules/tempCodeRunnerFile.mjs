@@ -1,0 +1,1 @@
+  var dealID = deals.map((deal) => deal.ID);
